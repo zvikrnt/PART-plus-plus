@@ -32,10 +32,10 @@ The PART technique leverages CAM to identify important pixel regions and applies
 4.  **Adversarial Training:** An attack (like PGD) uses $\epsilon_{\text{weighted}}$ to generate adversarial examples for training.
 
 *(Placeholder for Figure 1 from PDF - PART Technique Overview)*
-`![PART Technique Overview](images/motivation.png)`
+`![PART Technique Overview](images/motivation.jpg)`
 
 *(Placeholder for Figure 2 from PDF - PART Pipeline)*
-`![PART Pipeline](images/pipeline.png)`
+`![PART Pipeline](images/pipeline.jpg)`
 
 ### PART++: Ensemble CAM
 

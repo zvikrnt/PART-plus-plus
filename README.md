@@ -32,10 +32,10 @@ The PART technique leverages CAM to identify important pixel regions and applies
 4.  **Adversarial Training:** An attack (like PGD) uses $\epsilon_{\text{weighted}}$ to generate adversarial examples for training.
 
 *(Placeholder for Figure 1 from PDF - PART Technique Overview)*
-`![PART Technique Overview](figures/part_overview.png)`
+`![PART Technique Overview](images/motivation.png)`
 
 *(Placeholder for Figure 2 from PDF - PART Pipeline)*
-`![PART Pipeline](figures/part_pipeline.png)`
+`![PART Pipeline](images/pipeline.png)`
 
 ### PART++: Ensemble CAM
 
@@ -50,7 +50,7 @@ $$
 This ensemble map $M_{\text{ensemble}}$ is then used in steps 2-4 of the PART pipeline.
 
 *(Placeholder for Figure 3 from PDF - Ensemble CAM Architecture)*
-`![Ensemble CAM Architecture](figures/ensemble_cam_arch.png)`
+`![Ensemble CAM Architecture](images/ensemble.png)`
 
 ## Results Summary (CIFAR-10, ResNet-18)
 
@@ -138,7 +138,7 @@ python visualize_attacks.py
 *(Replace `XX` with the desired epoch number)*
 
 *(Placeholder for Figure 4 from PDF - Sample Output)*
-`![Sample Attack Visualization](figures/sample_attack_viz.png)`
+`![Sample Attack Visualization](images/sample_8_label_6_pgd.png)`
 
 ### Ablation Study
 
@@ -155,7 +155,7 @@ python ablation_study.py
 This will train different configurations (e.g., Grad-CAM only, without Score-CAM, etc.) for a few epochs and generate comparison plots (`ablation_results.png`, `ablation_training_curves.png`) and a CSV file in the `--output-dir`.
 
 *(Placeholder for Figure 5 from PDF - Ablation Training Curves)*
-`![Ablation Training Curves](figures/ablation_curves.png)`
+`![Ablation Training Curves](images/ablation_training_curves.png)`
 
 ## Directory Structure
 PART-plus-plus/

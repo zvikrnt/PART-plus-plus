@@ -32,10 +32,12 @@ The PART technique leverages CAM to identify important pixel regions and applies
 4.  **Adversarial Training:** An attack (like PGD) uses $\epsilon_{\text{weighted}}$ to generate adversarial examples for training.
 
 *(Placeholder for Figure 1 from PDF - PART Technique Overview)*
-`![PART Technique Overview](images/motivation.jpg)`
+![PART Technique Overview](https://github.com/user-attachments/assets/69015808-9d44-408a-8622-319459c2eca2)
+
 
 *(Placeholder for Figure 2 from PDF - PART Pipeline)*
-`![PART Pipeline](images/pipeline.jpg)`
+![PART Pipeline](https://github.com/user-attachments/assets/d6cef5fe-8e5a-468d-8752-98e9c6baa6c0)
+
 
 ### PART++: Ensemble CAM
 
@@ -50,7 +52,9 @@ $$
 This ensemble map $M_{\text{ensemble}}$ is then used in steps 2-4 of the PART pipeline.
 
 *(Placeholder for Figure 3 from PDF - Ensemble CAM Architecture)*
-`![Ensemble CAM Architecture](images/ensemble.png)`
+![Ensemble CAM Architecture](https://github.com/user-attachments/assets/14652476-9791-4f54-8c25-4ae5fbcd9163)
+
+
 
 ## Results Summary (CIFAR-10, ResNet-18)
 
@@ -138,7 +142,7 @@ python visualize_attacks.py
 *(Replace `XX` with the desired epoch number)*
 
 *(Placeholder for Figure 4 from PDF - Sample Output)*
-`![Sample Attack Visualization](images/sample_8_label_6_pgd.png)`
+![Sample Attack Visualization](https://github.com/user-attachments/assets/3b468f73-8abe-4074-9301-5f3e24bbf5e4)
 
 ### Ablation Study
 
@@ -155,7 +159,7 @@ python ablation_study.py
 This will train different configurations (e.g., Grad-CAM only, without Score-CAM, etc.) for a few epochs and generate comparison plots (`ablation_results.png`, `ablation_training_curves.png`) and a CSV file in the `--output-dir`.
 
 *(Placeholder for Figure 5 from PDF - Ablation Training Curves)*
-`![Ablation Training Curves](images/ablation_training_curves.png)`
+![Ablation Training Curves](https://github.com/user-attachments/assets/d4105249-9a5d-4e0c-8f76-6aa65ad4fcbb)
 
 ## Directory Structure
 PART-plus-plus/

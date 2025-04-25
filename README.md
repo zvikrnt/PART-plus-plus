@@ -129,7 +129,7 @@ Use `visualize_attacks.py` to generate images of original samples, perturbations
 **Example:**
 
 
-
+```
 python visualize_attacks.py
 --checkpoint_path ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epochXX.pth
 --data CIFAR10
@@ -138,6 +138,7 @@ python visualize_attacks.py
 --num_samples 10
 --epsilon 8/255
 --low-epsilon 7/255
+```
 # Add --use_sr for super-resolution (requires ISR: pip install ISR)
 *(Replace `XX` with the desired epoch number)*
 
@@ -149,12 +150,14 @@ python visualize_attacks.py
 Use `ablation_study.py` to evaluate the contribution of different CAM methods in the ensemble. Requires an initial checkpoint (e.g., after warm-up or a full run) for fair comparison.
 
 **Example:**
+```
 python ablation_study.py
 --initial-weights ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
 --output-dir ./ablation_results
 --data CIFAR10
 --model resnet
 --epochs 5
+```
 # Adjust other parameters like batch-size, epsilon etc. if needed
 This will train different configurations (e.g., Grad-CAM only, without Score-CAM, etc.) for a few epochs and generate comparison plots (`ablation_results.png`, `ablation_training_curves.png`) and a CSV file in the `--output-dir`.
 
@@ -162,6 +165,7 @@ This will train different configurations (e.g., Grad-CAM only, without Score-CAM
 ![Ablation Training Curves](https://github.com/user-attachments/assets/d4105249-9a5d-4e0c-8f76-6aa65ad4fcbb)
 
 ## Directory Structure
+```
 PART-plus-plus/
 ├── ablation_results/ # Output directory for ablation study plots and CSV
 ├── attack_visualizations/ # Output directory for visualize_attacks.py
@@ -178,7 +182,7 @@ PART-plus-plus/
 ├── train_eval_part_plus.py# Main training and evaluation script
 ├── utils.py # Utility functions (seed, lr_schedule, etc.)
 └── visualize_attacks.py # Script to visualize attacks
-
+```
 ## Future Work
 
 *   Explore different CAM weighting strategies within the ensemble.

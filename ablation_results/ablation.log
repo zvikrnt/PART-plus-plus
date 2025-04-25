@@ -1,0 +1,499 @@
+2025-04-23 13:27:16,909 - INFO - Initialized ablation study for resnet on CIFAR10
+2025-04-23 13:27:16,910 - INFO - 
+==================================================
+2025-04-23 13:27:16,911 - INFO - Running ablation for: Full Ensemble (Equal)
+2025-04-23 13:27:16,912 - INFO - ==================================================
+2025-04-23 13:27:17,005 - INFO - Epoch 1/5
+2025-04-23 13:27:17,051 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:17,919 - INFO - Batch 0/391: Loss=1.3286, Acc=49.22%
+2025-04-23 13:27:17,959 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:18,649 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:19,290 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:19,949 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:20,606 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:21,261 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:21,920 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:22,606 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:23,265 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:23,907 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:24,573 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:25,228 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:25,881 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:26,535 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:27,190 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:27,861 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:28,512 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:29,185 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:29,862 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:30,516 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:31,138 - INFO - Batch 20/391: Loss=1.3538, Acc=48.03%
+2025-04-23 13:27:31,180 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:31,870 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:32,526 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:33,191 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:33,875 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:34,538 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:35,221 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:35,898 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:36,551 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:37,209 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:37,878 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:38,526 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:39,200 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:39,853 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:40,504 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:41,155 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:41,813 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:42,467 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:43,152 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:43,821 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:44,438 - INFO - Batch 40/391: Loss=1.3875, Acc=45.98%
+2025-04-23 13:27:44,478 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:45,150 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:45,822 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:46,476 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:47,137 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:47,801 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:48,493 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:49,168 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:49,848 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:50,503 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:51,214 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:51,867 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:27:52,521 - ERROR - Error in CAM generation: weighted_ensemble_cam() got multiple values for argument 'target_category'
+2025-04-23 13:36:13,355 - INFO - Initialized ablation study for resnet on CIFAR10
+2025-04-23 13:36:13,355 - INFO - 
+==================================================
+2025-04-23 13:36:13,356 - INFO - Running ablation for: Full Ensemble (Equal)
+2025-04-23 13:36:13,357 - INFO - ==================================================
+2025-04-23 13:36:13,458 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 13:36:13,460 - INFO - Epoch 1/5
+2025-04-23 13:36:14,402 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 13:36:15,209 - INFO - Batch 0/391: Loss=1.3284, Acc=49.22%
+2025-04-23 13:36:46,568 - INFO - Batch 20/391: Loss=1.3538, Acc=48.21%
+2025-04-23 13:37:17,624 - INFO - Batch 40/391: Loss=1.3875, Acc=46.11%
+2025-04-23 13:37:48,865 - INFO - Batch 60/391: Loss=1.3913, Acc=45.79%
+2025-04-23 13:38:20,230 - INFO - Batch 80/391: Loss=1.4041, Acc=45.33%
+2025-04-23 13:38:51,664 - INFO - Batch 100/391: Loss=1.4065, Acc=45.58%
+2025-04-23 13:39:23,148 - INFO - Batch 120/391: Loss=1.4070, Acc=45.53%
+2025-04-23 13:39:54,650 - INFO - Batch 140/391: Loss=1.4124, Acc=45.26%
+2025-04-23 13:40:26,220 - INFO - Batch 160/391: Loss=1.4152, Acc=45.08%
+2025-04-23 13:40:57,706 - INFO - Batch 180/391: Loss=1.4192, Acc=45.08%
+2025-04-23 13:41:29,191 - INFO - Batch 200/391: Loss=1.4224, Acc=44.97%
+2025-04-23 13:42:00,749 - INFO - Batch 220/391: Loss=1.4217, Acc=45.10%
+2025-04-23 13:42:32,195 - INFO - Batch 240/391: Loss=1.4224, Acc=45.09%
+2025-04-23 13:43:03,761 - INFO - Batch 260/391: Loss=1.4230, Acc=45.11%
+2025-04-23 13:43:35,248 - INFO - Batch 280/391: Loss=1.4237, Acc=45.11%
+2025-04-23 13:44:06,788 - INFO - Batch 300/391: Loss=1.4249, Acc=45.07%
+2025-04-23 13:44:38,319 - INFO - Batch 320/391: Loss=1.4254, Acc=45.08%
+2025-04-23 13:45:09,847 - INFO - Batch 340/391: Loss=1.4229, Acc=45.15%
+2025-04-23 13:45:41,355 - INFO - Batch 360/391: Loss=1.4228, Acc=45.14%
+2025-04-23 13:46:12,883 - INFO - Batch 380/391: Loss=1.4242, Acc=45.09%
+2025-04-23 13:46:28,054 - INFO - Epoch 1 complete - Loss: 1.4232, Accuracy: 45.18%
+2025-04-23 13:46:28,054 - INFO - Epoch 2/5
+2025-04-23 13:46:28,850 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 13:46:29,640 - INFO - Batch 0/391: Loss=1.4257, Acc=43.75%
+2025-04-23 13:47:01,073 - INFO - Batch 20/391: Loss=1.3618, Acc=46.84%
+2025-04-23 13:47:32,584 - INFO - Batch 40/391: Loss=1.3732, Acc=46.74%
+2025-04-23 13:48:04,138 - INFO - Batch 60/391: Loss=1.3876, Acc=46.58%
+2025-04-23 13:48:35,682 - INFO - Batch 80/391: Loss=1.3904, Acc=46.74%
+2025-04-23 13:49:07,179 - INFO - Batch 100/391: Loss=1.3830, Acc=46.88%
+2025-04-23 13:49:38,669 - INFO - Batch 120/391: Loss=1.3917, Acc=46.53%
+2025-04-23 13:50:10,188 - INFO - Batch 140/391: Loss=1.3985, Acc=46.37%
+2025-04-23 13:50:41,714 - INFO - Batch 160/391: Loss=1.4016, Acc=46.33%
+2025-04-23 13:51:13,218 - INFO - Batch 180/391: Loss=1.4049, Acc=46.28%
+2025-04-23 13:51:44,760 - INFO - Batch 200/391: Loss=1.4036, Acc=46.34%
+2025-04-23 13:52:16,240 - INFO - Batch 220/391: Loss=1.4042, Acc=46.24%
+2025-04-23 13:52:47,758 - INFO - Batch 240/391: Loss=1.4040, Acc=46.22%
+2025-04-23 13:53:19,300 - INFO - Batch 260/391: Loss=1.4044, Acc=46.26%
+2025-04-23 13:53:50,738 - INFO - Batch 280/391: Loss=1.4056, Acc=46.16%
+2025-04-23 13:54:22,311 - INFO - Batch 300/391: Loss=1.4071, Acc=46.08%
+2025-04-23 13:54:53,901 - INFO - Batch 320/391: Loss=1.4048, Acc=46.21%
+2025-04-23 13:55:25,453 - INFO - Batch 340/391: Loss=1.4070, Acc=46.07%
+2025-04-23 13:55:56,987 - INFO - Batch 360/391: Loss=1.4079, Acc=46.04%
+2025-04-23 13:56:28,437 - INFO - Batch 380/391: Loss=1.4066, Acc=46.14%
+2025-04-23 13:56:43,623 - INFO - Epoch 2 complete - Loss: 1.4068, Accuracy: 46.15%
+2025-04-23 13:56:43,623 - INFO - Epoch 3/5
+2025-04-23 13:56:44,418 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 13:56:45,212 - INFO - Batch 0/391: Loss=1.5243, Acc=39.06%
+2025-04-23 13:57:16,705 - INFO - Batch 20/391: Loss=1.3791, Acc=47.32%
+2025-04-23 13:57:48,220 - INFO - Batch 40/391: Loss=1.3735, Acc=47.41%
+2025-04-23 13:58:19,673 - INFO - Batch 60/391: Loss=1.3727, Acc=47.09%
+2025-04-23 13:58:51,131 - INFO - Batch 80/391: Loss=1.3797, Acc=46.47%
+2025-04-23 13:59:22,699 - INFO - Batch 100/391: Loss=1.3805, Acc=46.66%
+2025-04-23 13:59:54,200 - INFO - Batch 120/391: Loss=1.3853, Acc=46.59%
+2025-04-23 14:00:25,725 - INFO - Batch 140/391: Loss=1.3876, Acc=46.45%
+2025-04-23 14:00:57,238 - INFO - Batch 160/391: Loss=1.3885, Acc=46.52%
+2025-04-23 14:01:28,764 - INFO - Batch 180/391: Loss=1.3840, Acc=46.67%
+2025-04-23 14:02:00,210 - INFO - Batch 200/391: Loss=1.3839, Acc=46.67%
+2025-04-23 14:02:31,719 - INFO - Batch 220/391: Loss=1.3850, Acc=46.57%
+2025-04-23 14:03:03,259 - INFO - Batch 240/391: Loss=1.3833, Acc=46.61%
+2025-04-23 14:03:34,817 - INFO - Batch 260/391: Loss=1.3851, Acc=46.49%
+2025-04-23 14:04:06,316 - INFO - Batch 280/391: Loss=1.3850, Acc=46.61%
+2025-04-23 14:04:37,748 - INFO - Batch 300/391: Loss=1.3885, Acc=46.43%
+2025-04-23 14:05:09,302 - INFO - Batch 320/391: Loss=1.3894, Acc=46.38%
+2025-04-23 14:05:40,831 - INFO - Batch 340/391: Loss=1.3911, Acc=46.43%
+2025-04-23 14:06:12,321 - INFO - Batch 360/391: Loss=1.3901, Acc=46.54%
+2025-04-23 14:06:43,847 - INFO - Batch 380/391: Loss=1.3892, Acc=46.49%
+2025-04-23 14:06:59,024 - INFO - Epoch 3 complete - Loss: 1.3886, Accuracy: 46.54%
+2025-04-23 14:06:59,024 - INFO - Epoch 4/5
+2025-04-23 14:06:59,820 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 14:07:00,608 - INFO - Batch 0/391: Loss=1.3237, Acc=50.00%
+2025-04-23 14:07:32,104 - INFO - Batch 20/391: Loss=1.3737, Acc=46.80%
+2025-04-23 14:08:03,577 - INFO - Batch 40/391: Loss=1.3547, Acc=47.73%
+2025-04-23 14:08:35,081 - INFO - Batch 60/391: Loss=1.3610, Acc=47.31%
+2025-04-23 14:09:06,579 - INFO - Batch 80/391: Loss=1.3579, Acc=47.39%
+2025-04-23 14:09:38,092 - INFO - Batch 100/391: Loss=1.3546, Acc=47.73%
+2025-04-23 14:10:09,644 - INFO - Batch 120/391: Loss=1.3597, Acc=47.50%
+2025-04-23 14:10:41,142 - INFO - Batch 140/391: Loss=1.3622, Acc=47.47%
+2025-04-23 14:11:12,603 - INFO - Batch 160/391: Loss=1.3655, Acc=47.28%
+2025-04-23 14:11:44,119 - INFO - Batch 180/391: Loss=1.3657, Acc=47.37%
+2025-04-23 14:12:15,621 - INFO - Batch 200/391: Loss=1.3636, Acc=47.36%
+2025-04-23 14:12:47,155 - INFO - Batch 220/391: Loss=1.3637, Acc=47.39%
+2025-04-23 14:13:18,605 - INFO - Batch 240/391: Loss=1.3635, Acc=47.37%
+2025-04-23 14:13:50,149 - INFO - Batch 260/391: Loss=1.3636, Acc=47.37%
+2025-04-23 14:14:21,622 - INFO - Batch 280/391: Loss=1.3642, Acc=47.46%
+2025-04-23 14:14:53,076 - INFO - Batch 300/391: Loss=1.3651, Acc=47.49%
+2025-04-23 14:15:24,669 - INFO - Batch 320/391: Loss=1.3672, Acc=47.45%
+2025-04-23 14:15:56,204 - INFO - Batch 340/391: Loss=1.3695, Acc=47.39%
+2025-04-23 14:16:27,691 - INFO - Batch 360/391: Loss=1.3703, Acc=47.37%
+2025-04-23 14:16:59,212 - INFO - Batch 380/391: Loss=1.3712, Acc=47.31%
+2025-04-23 14:17:14,378 - INFO - Epoch 4 complete - Loss: 1.3701, Accuracy: 47.35%
+2025-04-23 14:17:14,378 - INFO - Epoch 5/5
+2025-04-23 14:17:15,167 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 14:17:15,948 - INFO - Batch 0/391: Loss=1.4571, Acc=42.97%
+2025-04-23 14:17:47,446 - INFO - Batch 20/391: Loss=1.3290, Acc=49.03%
+2025-04-23 14:18:18,981 - INFO - Batch 40/391: Loss=1.3381, Acc=47.85%
+2025-04-23 14:18:51,210 - INFO - Batch 60/391: Loss=1.3341, Acc=48.71%
+2025-04-23 14:19:23,502 - INFO - Batch 80/391: Loss=1.3475, Acc=48.12%
+2025-04-23 14:19:55,268 - INFO - Batch 100/391: Loss=1.3526, Acc=47.90%
+2025-04-23 14:20:27,025 - INFO - Batch 120/391: Loss=1.3582, Acc=47.76%
+2025-04-23 14:20:58,751 - INFO - Batch 140/391: Loss=1.3578, Acc=47.72%
+2025-04-23 14:21:30,488 - INFO - Batch 160/391: Loss=1.3572, Acc=47.78%
+2025-04-23 14:22:02,249 - INFO - Batch 180/391: Loss=1.3581, Acc=47.87%
+2025-04-23 14:22:33,966 - INFO - Batch 200/391: Loss=1.3590, Acc=47.80%
+2025-04-23 14:23:06,084 - INFO - Batch 220/391: Loss=1.3620, Acc=47.67%
+2025-04-23 14:23:38,118 - INFO - Batch 240/391: Loss=1.3604, Acc=47.63%
+2025-04-23 14:24:09,827 - INFO - Batch 260/391: Loss=1.3589, Acc=47.79%
+2025-04-23 14:24:41,589 - INFO - Batch 280/391: Loss=1.3589, Acc=47.81%
+2025-04-23 14:25:13,350 - INFO - Batch 300/391: Loss=1.3581, Acc=47.83%
+2025-04-23 14:25:45,206 - INFO - Batch 320/391: Loss=1.3601, Acc=47.76%
+2025-04-23 14:26:17,082 - INFO - Batch 340/391: Loss=1.3588, Acc=47.80%
+2025-04-23 14:26:49,466 - INFO - Batch 360/391: Loss=1.3598, Acc=47.73%
+2025-04-23 14:27:21,860 - INFO - Batch 380/391: Loss=1.3593, Acc=47.76%
+2025-04-23 14:27:37,294 - INFO - Epoch 5 complete - Loss: 1.3597, Accuracy: 47.75%
+2025-04-23 14:27:37,892 - INFO - Eval batch 0/79: Clean=72.66%, Robust=43.75%
+2025-04-23 14:27:49,802 - INFO - Eval batch 20/79: Clean=73.88%, Robust=43.42%
+2025-04-23 14:28:01,650 - INFO - Eval batch 40/79: Clean=74.33%, Robust=44.15%
+2025-04-23 14:28:13,742 - INFO - Eval batch 60/79: Clean=73.72%, Robust=44.12%
+2025-04-23 14:28:24,007 - INFO - Ablation for Full Ensemble (Equal) completed:
+2025-04-23 14:28:24,007 - INFO -   Clean Accuracy: 74.01%
+2025-04-23 14:28:24,008 - INFO -   Robust Accuracy: 43.90%
+2025-04-23 14:28:24,009 - INFO - 
+==================================================
+2025-04-23 14:28:24,010 - INFO - Running ablation for: Grad-CAM Only
+2025-04-23 14:28:24,011 - INFO - ==================================================
+2025-04-23 14:28:24,067 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 14:28:24,069 - INFO - Epoch 1/5
+2025-04-23 14:28:24,881 - INFO - CAM shape: torch.Size([128, 1, 32, 32]), Input shape: torch.Size([128, 3, 32, 32])
+2025-04-23 14:28:25,692 - INFO - Batch 0/391: Loss=1.2027, Acc=55.47%
+2025-04-23 14:28:57,914 - INFO - Batch 20/391: Loss=1.3646, Acc=47.77%
+2025-04-23 14:29:30,047 - INFO - Batch 40/391: Loss=1.3704, Acc=47.22%
+2025-04-23 14:29:55,159 - INFO - Initialized ablation study for resnet on CIFAR10
+2025-04-23 14:29:55,159 - INFO - 
+==================================================
+2025-04-23 14:29:55,160 - INFO - Running ablation for: Full Ensemble (Equal)
+2025-04-23 14:29:55,161 - INFO - ==================================================
+2025-04-23 14:29:55,212 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 14:29:55,214 - INFO - Epoch 1/5
+2025-04-23 14:29:59,519 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 14:30:02,605 - INFO - Batch 0/98: Loss=1.3483, Acc=47.85%
+2025-04-23 14:32:02,994 - INFO - Batch 20/98: Loss=1.3110, Acc=49.14%
+2025-04-23 14:34:03,187 - INFO - Batch 40/98: Loss=1.3078, Acc=49.20%
+2025-04-23 14:36:03,061 - INFO - Batch 60/98: Loss=1.3077, Acc=49.26%
+2025-04-23 14:38:03,033 - INFO - Batch 80/98: Loss=1.3070, Acc=49.62%
+2025-04-23 14:39:42,969 - INFO - Epoch 1 complete - Loss: 1.3045, Accuracy: 49.73%
+2025-04-23 14:39:42,973 - INFO - Epoch 2/5
+2025-04-23 14:39:45,962 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 14:39:48,978 - INFO - Batch 0/98: Loss=1.2110, Acc=51.37%
+2025-04-23 14:41:48,900 - INFO - Batch 20/98: Loss=1.2605, Acc=50.82%
+2025-04-23 14:43:48,835 - INFO - Batch 40/98: Loss=1.2778, Acc=50.44%
+2025-04-23 14:45:48,720 - INFO - Batch 60/98: Loss=1.2860, Acc=50.04%
+2025-04-23 14:47:48,548 - INFO - Batch 80/98: Loss=1.2879, Acc=50.02%
+2025-04-23 14:49:28,384 - INFO - Epoch 2 complete - Loss: 1.2901, Accuracy: 49.97%
+2025-04-23 14:49:28,384 - INFO - Epoch 3/5
+2025-04-23 14:49:31,373 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 14:49:34,374 - INFO - Batch 0/98: Loss=1.2638, Acc=53.12%
+2025-04-23 14:51:34,184 - INFO - Batch 20/98: Loss=1.2671, Acc=51.14%
+2025-04-23 14:53:34,230 - INFO - Batch 40/98: Loss=1.2691, Acc=50.94%
+2025-04-23 14:55:34,126 - INFO - Batch 60/98: Loss=1.2737, Acc=50.67%
+2025-04-23 14:57:34,027 - INFO - Batch 80/98: Loss=1.2770, Acc=50.61%
+2025-04-23 14:59:13,898 - INFO - Epoch 3 complete - Loss: 1.2775, Accuracy: 50.51%
+2025-04-23 14:59:13,900 - INFO - Epoch 4/5
+2025-04-23 14:59:16,878 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 14:59:19,896 - INFO - Batch 0/98: Loss=1.2848, Acc=48.63%
+2025-04-23 15:01:19,956 - INFO - Batch 20/98: Loss=1.2625, Acc=50.97%
+2025-04-23 15:03:19,865 - INFO - Batch 40/98: Loss=1.2713, Acc=50.81%
+2025-04-23 15:05:19,819 - INFO - Batch 60/98: Loss=1.2674, Acc=50.94%
+2025-04-23 15:07:19,818 - INFO - Batch 80/98: Loss=1.2707, Acc=50.73%
+2025-04-23 15:08:59,692 - INFO - Epoch 4 complete - Loss: 1.2712, Accuracy: 50.73%
+2025-04-23 15:08:59,697 - INFO - Epoch 5/5
+2025-04-23 15:09:02,680 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:09:05,679 - INFO - Batch 0/98: Loss=1.2096, Acc=53.91%
+2025-04-23 15:11:05,477 - INFO - Batch 20/98: Loss=1.2609, Acc=51.26%
+2025-04-23 15:13:05,490 - INFO - Batch 40/98: Loss=1.2592, Acc=51.29%
+2025-04-23 15:15:05,381 - INFO - Batch 60/98: Loss=1.2618, Acc=51.04%
+2025-04-23 15:17:05,367 - INFO - Batch 80/98: Loss=1.2632, Acc=50.88%
+2025-04-23 15:18:45,229 - INFO - Epoch 5 complete - Loss: 1.2632, Accuracy: 51.01%
+2025-04-23 15:18:47,456 - INFO - Eval batch 0/20: Clean=78.52%, Robust=44.14%
+2025-04-23 15:19:28,793 - INFO - Ablation for Full Ensemble (Equal) completed:
+2025-04-23 15:19:28,794 - INFO -   Clean Accuracy: 76.57%
+2025-04-23 15:19:28,795 - INFO -   Robust Accuracy: 44.99%
+2025-04-23 15:19:28,796 - INFO - 
+==================================================
+2025-04-23 15:19:28,797 - INFO - Running ablation for: Grad-CAM Only
+2025-04-23 15:19:28,798 - INFO - ==================================================
+2025-04-23 15:19:28,845 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 15:19:28,848 - INFO - Epoch 1/5
+2025-04-23 15:19:31,809 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:19:34,811 - INFO - Batch 0/98: Loss=1.4007, Acc=45.90%
+2025-04-23 15:21:34,733 - INFO - Batch 20/98: Loss=1.3075, Acc=49.63%
+2025-04-23 15:23:34,615 - INFO - Batch 40/98: Loss=1.3007, Acc=49.67%
+2025-04-23 15:25:34,605 - INFO - Batch 60/98: Loss=1.3020, Acc=49.64%
+2025-04-23 15:27:34,505 - INFO - Batch 80/98: Loss=1.3008, Acc=49.88%
+2025-04-23 15:29:14,377 - INFO - Epoch 1 complete - Loss: 1.3015, Accuracy: 49.85%
+2025-04-23 15:29:14,378 - INFO - Epoch 2/5
+2025-04-23 15:29:17,370 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:29:20,364 - INFO - Batch 0/98: Loss=1.2297, Acc=51.37%
+2025-04-23 15:31:20,358 - INFO - Batch 20/98: Loss=1.2894, Acc=49.56%
+2025-04-23 15:33:20,221 - INFO - Batch 40/98: Loss=1.2820, Acc=50.03%
+2025-04-23 15:35:20,255 - INFO - Batch 60/98: Loss=1.2911, Acc=49.70%
+2025-04-23 15:37:20,240 - INFO - Batch 80/98: Loss=1.2856, Acc=49.90%
+2025-04-23 15:39:00,177 - INFO - Epoch 2 complete - Loss: 1.2883, Accuracy: 49.88%
+2025-04-23 15:39:00,180 - INFO - Epoch 3/5
+2025-04-23 15:39:03,156 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:39:06,171 - INFO - Batch 0/98: Loss=1.2341, Acc=53.71%
+2025-04-23 15:41:06,190 - INFO - Batch 20/98: Loss=1.2642, Acc=51.66%
+2025-04-23 15:43:06,126 - INFO - Batch 40/98: Loss=1.2696, Acc=50.69%
+2025-04-23 15:45:06,069 - INFO - Batch 60/98: Loss=1.2692, Acc=50.77%
+2025-04-23 15:47:06,411 - INFO - Batch 80/98: Loss=1.2740, Acc=50.63%
+2025-04-23 15:48:46,401 - INFO - Epoch 3 complete - Loss: 1.2796, Accuracy: 50.43%
+2025-04-23 15:48:46,403 - INFO - Epoch 4/5
+2025-04-23 15:48:49,327 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:48:52,339 - INFO - Batch 0/98: Loss=1.2420, Acc=52.73%
+2025-04-23 15:50:52,341 - INFO - Batch 20/98: Loss=1.2604, Acc=50.64%
+2025-04-23 15:52:52,250 - INFO - Batch 40/98: Loss=1.2663, Acc=50.64%
+2025-04-23 15:54:52,285 - INFO - Batch 60/98: Loss=1.2651, Acc=50.78%
+2025-04-23 15:56:52,281 - INFO - Batch 80/98: Loss=1.2696, Acc=50.50%
+2025-04-23 15:58:32,236 - INFO - Epoch 4 complete - Loss: 1.2741, Accuracy: 50.43%
+2025-04-23 15:58:32,238 - INFO - Epoch 5/5
+2025-04-23 15:58:35,228 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 15:58:38,230 - INFO - Batch 0/98: Loss=1.3175, Acc=48.63%
+2025-04-23 16:00:38,212 - INFO - Batch 20/98: Loss=1.2644, Acc=50.66%
+2025-04-23 16:02:38,110 - INFO - Batch 40/98: Loss=1.2562, Acc=50.94%
+2025-04-23 16:04:38,091 - INFO - Batch 60/98: Loss=1.2550, Acc=51.09%
+2025-04-23 16:06:38,042 - INFO - Batch 80/98: Loss=1.2613, Acc=50.97%
+2025-04-23 16:08:18,004 - INFO - Epoch 5 complete - Loss: 1.2642, Accuracy: 50.94%
+2025-04-23 16:08:20,230 - INFO - Eval batch 0/20: Clean=75.98%, Robust=44.34%
+2025-04-23 16:09:01,560 - INFO - Ablation for Grad-CAM Only completed:
+2025-04-23 16:09:01,560 - INFO -   Clean Accuracy: 76.22%
+2025-04-23 16:09:01,564 - INFO -   Robust Accuracy: 44.52%
+2025-04-23 16:09:01,564 - INFO - 
+==================================================
+2025-04-23 16:09:01,565 - INFO - Running ablation for: Grad-CAM++ Only
+2025-04-23 16:09:01,566 - INFO - ==================================================
+2025-04-23 16:09:01,625 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 16:09:01,627 - INFO - Epoch 1/5
+2025-04-23 16:09:04,632 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:09:07,625 - INFO - Batch 0/98: Loss=1.2957, Acc=50.20%
+2025-04-23 16:11:07,601 - INFO - Batch 20/98: Loss=1.2882, Acc=50.35%
+2025-04-23 16:13:07,506 - INFO - Batch 40/98: Loss=1.2948, Acc=49.77%
+2025-04-23 16:15:07,455 - INFO - Batch 60/98: Loss=1.2989, Acc=49.54%
+2025-04-23 16:17:07,326 - INFO - Batch 80/98: Loss=1.2985, Acc=49.71%
+2025-04-23 16:18:47,215 - INFO - Epoch 1 complete - Loss: 1.3012, Accuracy: 49.63%
+2025-04-23 16:18:47,215 - INFO - Epoch 2/5
+2025-04-23 16:18:50,209 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:18:53,218 - INFO - Batch 0/98: Loss=1.2899, Acc=50.00%
+2025-04-23 16:20:53,306 - INFO - Batch 20/98: Loss=1.2728, Acc=50.56%
+2025-04-23 16:22:53,226 - INFO - Batch 40/98: Loss=1.2754, Acc=50.73%
+2025-04-23 16:24:53,182 - INFO - Batch 60/98: Loss=1.2789, Acc=50.44%
+2025-04-23 16:26:54,244 - INFO - Batch 80/98: Loss=1.2812, Acc=50.21%
+2025-04-23 16:28:34,810 - INFO - Epoch 2 complete - Loss: 1.2897, Accuracy: 49.92%
+2025-04-23 16:28:34,812 - INFO - Epoch 3/5
+2025-04-23 16:28:37,795 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:28:40,812 - INFO - Batch 0/98: Loss=1.2965, Acc=49.41%
+2025-04-23 16:30:40,669 - INFO - Batch 20/98: Loss=1.2688, Acc=51.05%
+2025-04-23 16:32:40,744 - INFO - Batch 40/98: Loss=1.2799, Acc=50.36%
+2025-04-23 16:34:40,929 - INFO - Batch 60/98: Loss=1.2766, Acc=50.52%
+2025-04-23 16:36:40,896 - INFO - Batch 80/98: Loss=1.2819, Acc=50.27%
+2025-04-23 16:38:20,830 - INFO - Epoch 3 complete - Loss: 1.2846, Accuracy: 50.14%
+2025-04-23 16:38:20,833 - INFO - Epoch 4/5
+2025-04-23 16:38:23,824 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:38:26,827 - INFO - Batch 0/98: Loss=1.2178, Acc=52.34%
+2025-04-23 16:40:26,779 - INFO - Batch 20/98: Loss=1.2681, Acc=50.92%
+2025-04-23 16:42:26,748 - INFO - Batch 40/98: Loss=1.2732, Acc=50.85%
+2025-04-23 16:44:26,618 - INFO - Batch 60/98: Loss=1.2745, Acc=50.67%
+2025-04-23 16:46:26,720 - INFO - Batch 80/98: Loss=1.2767, Acc=50.52%
+2025-04-23 16:48:06,684 - INFO - Epoch 4 complete - Loss: 1.2735, Accuracy: 50.63%
+2025-04-23 16:48:06,685 - INFO - Epoch 5/5
+2025-04-23 16:48:09,679 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:48:12,684 - INFO - Batch 0/98: Loss=1.3186, Acc=45.31%
+2025-04-23 16:50:12,761 - INFO - Batch 20/98: Loss=1.2684, Acc=50.73%
+2025-04-23 16:52:12,675 - INFO - Batch 40/98: Loss=1.2634, Acc=51.31%
+2025-04-23 16:54:12,665 - INFO - Batch 60/98: Loss=1.2667, Acc=50.85%
+2025-04-23 16:56:12,549 - INFO - Batch 80/98: Loss=1.2706, Acc=50.58%
+2025-04-23 16:57:52,479 - INFO - Epoch 5 complete - Loss: 1.2709, Accuracy: 50.55%
+2025-04-23 16:57:54,710 - INFO - Eval batch 0/20: Clean=77.73%, Robust=44.92%
+2025-04-23 16:58:36,025 - INFO - Ablation for Grad-CAM++ Only completed:
+2025-04-23 16:58:36,025 - INFO -   Clean Accuracy: 75.84%
+2025-04-23 16:58:36,034 - INFO -   Robust Accuracy: 44.43%
+2025-04-23 16:58:36,035 - INFO - 
+==================================================
+2025-04-23 16:58:36,035 - INFO - Running ablation for: Score-CAM Only
+2025-04-23 16:58:36,036 - INFO - ==================================================
+2025-04-23 16:58:36,090 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 16:58:36,093 - INFO - Epoch 1/5
+2025-04-23 16:58:39,079 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 16:58:42,095 - INFO - Batch 0/98: Loss=1.3684, Acc=45.70%
+2025-04-23 17:00:42,060 - INFO - Batch 20/98: Loss=1.3088, Acc=50.07%
+2025-04-23 17:02:42,000 - INFO - Batch 40/98: Loss=1.3094, Acc=50.15%
+2025-04-23 17:04:41,889 - INFO - Batch 60/98: Loss=1.3044, Acc=50.00%
+2025-04-23 17:06:41,763 - INFO - Batch 80/98: Loss=1.2997, Acc=50.16%
+2025-04-23 17:08:21,658 - INFO - Epoch 1 complete - Loss: 1.3021, Accuracy: 49.99%
+2025-04-23 17:08:21,658 - INFO - Epoch 2/5
+2025-04-23 17:08:24,644 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:08:27,648 - INFO - Batch 0/98: Loss=1.1938, Acc=53.52%
+2025-04-23 17:10:27,681 - INFO - Batch 20/98: Loss=1.2838, Acc=49.93%
+2025-04-23 17:12:27,617 - INFO - Batch 40/98: Loss=1.2907, Acc=50.20%
+2025-04-23 17:14:27,457 - INFO - Batch 60/98: Loss=1.2934, Acc=50.04%
+2025-04-23 17:16:27,368 - INFO - Batch 80/98: Loss=1.2888, Acc=50.17%
+2025-04-23 17:18:07,273 - INFO - Epoch 2 complete - Loss: 1.2904, Accuracy: 50.11%
+2025-04-23 17:18:07,273 - INFO - Epoch 3/5
+2025-04-23 17:18:10,257 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:18:13,280 - INFO - Batch 0/98: Loss=1.2510, Acc=51.17%
+2025-04-23 17:20:13,150 - INFO - Batch 20/98: Loss=1.2736, Acc=50.28%
+2025-04-23 17:22:13,197 - INFO - Batch 40/98: Loss=1.2775, Acc=50.29%
+2025-04-23 17:24:13,074 - INFO - Batch 60/98: Loss=1.2777, Acc=50.37%
+2025-04-23 17:26:13,203 - INFO - Batch 80/98: Loss=1.2798, Acc=50.38%
+2025-04-23 17:27:53,011 - INFO - Epoch 3 complete - Loss: 1.2795, Accuracy: 50.49%
+2025-04-23 17:27:53,012 - INFO - Epoch 4/5
+2025-04-23 17:27:56,004 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:27:59,011 - INFO - Batch 0/98: Loss=1.2550, Acc=49.41%
+2025-04-23 17:29:58,961 - INFO - Batch 20/98: Loss=1.2576, Acc=50.59%
+2025-04-23 17:31:58,844 - INFO - Batch 40/98: Loss=1.2631, Acc=50.43%
+2025-04-23 17:33:58,962 - INFO - Batch 60/98: Loss=1.2678, Acc=50.23%
+2025-04-23 17:35:58,897 - INFO - Batch 80/98: Loss=1.2714, Acc=50.21%
+2025-04-23 17:37:38,844 - INFO - Epoch 4 complete - Loss: 1.2718, Accuracy: 50.11%
+2025-04-23 17:37:38,847 - INFO - Epoch 5/5
+2025-04-23 17:37:41,830 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:37:44,845 - INFO - Batch 0/98: Loss=1.2999, Acc=50.78%
+2025-04-23 17:39:44,737 - INFO - Batch 20/98: Loss=1.2862, Acc=50.22%
+2025-04-23 17:41:44,700 - INFO - Batch 40/98: Loss=1.2705, Acc=50.90%
+2025-04-23 17:43:44,656 - INFO - Batch 60/98: Loss=1.2679, Acc=50.58%
+2025-04-23 17:45:44,610 - INFO - Batch 80/98: Loss=1.2667, Acc=50.72%
+2025-04-23 17:47:24,512 - INFO - Epoch 5 complete - Loss: 1.2679, Accuracy: 50.62%
+2025-04-23 17:47:26,731 - INFO - Eval batch 0/20: Clean=76.56%, Robust=42.38%
+2025-04-23 17:48:08,069 - INFO - Ablation for Score-CAM Only completed:
+2025-04-23 17:48:08,077 - INFO -   Clean Accuracy: 74.62%
+2025-04-23 17:48:08,077 - INFO -   Robust Accuracy: 44.08%
+2025-04-23 17:48:08,078 - INFO - 
+==================================================
+2025-04-23 17:48:08,078 - INFO - Running ablation for: GradCAM Dominant
+2025-04-23 17:48:08,080 - INFO - ==================================================
+2025-04-23 17:48:08,119 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 17:48:08,119 - INFO - Epoch 1/5
+2025-04-23 17:48:11,113 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:48:14,114 - INFO - Batch 0/98: Loss=1.3128, Acc=50.20%
+2025-04-23 17:50:14,001 - INFO - Batch 20/98: Loss=1.3080, Acc=50.15%
+2025-04-23 17:52:13,832 - INFO - Batch 40/98: Loss=1.2985, Acc=50.42%
+2025-04-23 17:54:13,785 - INFO - Batch 60/98: Loss=1.2994, Acc=50.20%
+2025-04-23 17:56:13,755 - INFO - Batch 80/98: Loss=1.3041, Acc=49.81%
+2025-04-23 17:57:53,693 - INFO - Epoch 1 complete - Loss: 1.3023, Accuracy: 49.90%
+2025-04-23 17:57:53,694 - INFO - Epoch 2/5
+2025-04-23 17:57:56,677 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 17:57:59,700 - INFO - Batch 0/98: Loss=1.2469, Acc=53.71%
+2025-04-23 17:59:59,581 - INFO - Batch 20/98: Loss=1.2780, Acc=49.89%
+2025-04-23 18:01:59,463 - INFO - Batch 40/98: Loss=1.2867, Acc=49.76%
+2025-04-23 18:03:59,416 - INFO - Batch 60/98: Loss=1.2869, Acc=49.87%
+2025-04-23 18:05:59,402 - INFO - Batch 80/98: Loss=1.2879, Acc=49.90%
+2025-04-23 18:07:39,295 - INFO - Epoch 2 complete - Loss: 1.2885, Accuracy: 49.95%
+2025-04-23 18:07:39,297 - INFO - Epoch 3/5
+2025-04-23 18:07:42,305 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:07:45,317 - INFO - Batch 0/98: Loss=1.2088, Acc=54.30%
+2025-04-23 18:09:45,331 - INFO - Batch 20/98: Loss=1.2978, Acc=50.35%
+2025-04-23 18:11:45,318 - INFO - Batch 40/98: Loss=1.2906, Acc=50.60%
+2025-04-23 18:13:45,065 - INFO - Batch 60/98: Loss=1.2852, Acc=50.50%
+2025-04-23 18:15:44,986 - INFO - Batch 80/98: Loss=1.2808, Acc=50.52%
+2025-04-23 18:17:24,967 - INFO - Epoch 3 complete - Loss: 1.2819, Accuracy: 50.45%
+2025-04-23 18:17:24,968 - INFO - Epoch 4/5
+2025-04-23 18:17:27,948 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:17:30,971 - INFO - Batch 0/98: Loss=1.2896, Acc=49.80%
+2025-04-23 18:19:30,868 - INFO - Batch 20/98: Loss=1.2554, Acc=51.74%
+2025-04-23 18:21:30,853 - INFO - Batch 40/98: Loss=1.2675, Acc=50.94%
+2025-04-23 18:23:30,745 - INFO - Batch 60/98: Loss=1.2696, Acc=50.77%
+2025-04-23 18:25:30,625 - INFO - Batch 80/98: Loss=1.2733, Acc=50.61%
+2025-04-23 18:27:10,400 - INFO - Epoch 4 complete - Loss: 1.2726, Accuracy: 50.83%
+2025-04-23 18:27:10,401 - INFO - Epoch 5/5
+2025-04-23 18:27:13,381 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:27:16,403 - INFO - Batch 0/98: Loss=1.2219, Acc=49.80%
+2025-04-23 18:29:16,369 - INFO - Batch 20/98: Loss=1.2628, Acc=49.84%
+2025-04-23 18:31:16,260 - INFO - Batch 40/98: Loss=1.2677, Acc=50.10%
+2025-04-23 18:33:16,250 - INFO - Batch 60/98: Loss=1.2645, Acc=50.66%
+2025-04-23 18:35:16,332 - INFO - Batch 80/98: Loss=1.2659, Acc=50.60%
+2025-04-23 18:36:56,227 - INFO - Epoch 5 complete - Loss: 1.2669, Accuracy: 50.53%
+2025-04-23 18:36:58,447 - INFO - Eval batch 0/20: Clean=77.93%, Robust=42.58%
+2025-04-23 18:37:39,768 - INFO - Ablation for GradCAM Dominant completed:
+2025-04-23 18:37:39,776 - INFO -   Clean Accuracy: 76.44%
+2025-04-23 18:37:39,776 - INFO -   Robust Accuracy: 43.83%
+2025-04-23 18:37:39,777 - INFO - 
+==================================================
+2025-04-23 18:37:39,778 - INFO - Running ablation for: GradCAM++ Dominant
+2025-04-23 18:37:39,779 - INFO - ==================================================
+2025-04-23 18:37:39,817 - INFO - Loaded initial weights from ./checkpoint/CIFAR10/ResNet_18/PART_Ensemble/part_ensemble_epoch24.pth
+2025-04-23 18:37:39,817 - INFO - Epoch 1/5
+2025-04-23 18:37:42,785 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:37:45,788 - INFO - Batch 0/98: Loss=1.4222, Acc=41.21%
+2025-04-23 18:39:47,967 - INFO - Batch 20/98: Loss=1.3097, Acc=49.93%
+2025-04-23 18:41:49,028 - INFO - Batch 40/98: Loss=1.3047, Acc=49.94%
+2025-04-23 18:43:48,918 - INFO - Batch 60/98: Loss=1.3010, Acc=49.91%
+2025-04-23 18:45:48,919 - INFO - Batch 80/98: Loss=1.3042, Acc=49.77%
+2025-04-23 18:47:28,863 - INFO - Epoch 1 complete - Loss: 1.3053, Accuracy: 49.72%
+2025-04-23 18:47:28,864 - INFO - Epoch 2/5
+2025-04-23 18:47:31,852 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:47:34,866 - INFO - Batch 0/98: Loss=1.2000, Acc=52.73%
+2025-04-23 18:49:34,675 - INFO - Batch 20/98: Loss=1.2839, Acc=50.55%
+2025-04-23 18:51:34,685 - INFO - Batch 40/98: Loss=1.2888, Acc=50.29%
+2025-04-23 18:53:34,678 - INFO - Batch 60/98: Loss=1.2899, Acc=50.14%
+2025-04-23 18:55:34,709 - INFO - Batch 80/98: Loss=1.2923, Acc=50.04%
+2025-04-23 18:57:14,547 - INFO - Epoch 2 complete - Loss: 1.2930, Accuracy: 49.99%
+2025-04-23 18:57:14,548 - INFO - Epoch 3/5
+2025-04-23 18:57:17,528 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 18:57:20,549 - INFO - Batch 0/98: Loss=1.2480, Acc=51.56%
+2025-04-23 18:59:20,610 - INFO - Batch 20/98: Loss=1.2701, Acc=50.33%
+2025-04-23 19:01:20,592 - INFO - Batch 40/98: Loss=1.2781, Acc=50.14%
+2025-04-23 19:03:20,595 - INFO - Batch 60/98: Loss=1.2796, Acc=50.24%
+2025-04-23 19:05:20,481 - INFO - Batch 80/98: Loss=1.2807, Acc=50.27%
+2025-04-23 19:07:00,441 - INFO - Epoch 3 complete - Loss: 1.2790, Accuracy: 50.29%
+2025-04-23 19:07:00,441 - INFO - Epoch 4/5
+2025-04-23 19:07:03,404 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 19:07:06,424 - INFO - Batch 0/98: Loss=1.3141, Acc=48.24%
+2025-04-23 19:09:06,394 - INFO - Batch 20/98: Loss=1.2742, Acc=50.69%
+2025-04-23 19:11:06,399 - INFO - Batch 40/98: Loss=1.2614, Acc=51.17%
+2025-04-23 19:13:06,344 - INFO - Batch 60/98: Loss=1.2680, Acc=50.75%
+2025-04-23 19:15:06,297 - INFO - Batch 80/98: Loss=1.2699, Acc=50.75%
+2025-04-23 19:16:46,268 - INFO - Epoch 4 complete - Loss: 1.2724, Accuracy: 50.66%
+2025-04-23 19:16:46,272 - INFO - Epoch 5/5
+2025-04-23 19:16:49,252 - INFO - CAM shape: torch.Size([512, 1, 32, 32]), Input shape: torch.Size([512, 3, 32, 32])
+2025-04-23 19:16:52,273 - INFO - Batch 0/98: Loss=1.2150, Acc=54.30%
+2025-04-23 19:18:52,255 - INFO - Batch 20/98: Loss=1.2470, Acc=52.19%
+2025-04-23 19:20:52,222 - INFO - Batch 40/98: Loss=1.2546, Acc=51.34%
+2025-04-23 19:22:52,202 - INFO - Batch 60/98: Loss=1.2582, Acc=51.17%
+2025-04-23 19:24:52,070 - INFO - Batch 80/98: Loss=1.2595, Acc=51.11%
+2025-04-23 19:26:32,037 - INFO - Epoch 5 complete - Loss: 1.2615, Accuracy: 50.99%
+2025-04-23 19:26:34,263 - INFO - Eval batch 0/20: Clean=77.15%, Robust=41.60%
+2025-04-23 19:27:15,601 - INFO - Ablation for GradCAM++ Dominant completed:
+2025-04-23 19:27:15,603 - INFO -   Clean Accuracy: 75.07%
+2025-04-23 19:27:15,604 - INFO -   Robust Accuracy: 41.98%
+2025-04-23 19:27:16,079 - INFO - Results visualization saved to ./ablation_results/ablation_results.png
+2025-04-23 19:27:17,048 - INFO - Training curves saved to ./ablation_results/ablation_training_curves.png
+2025-04-23 19:27:17,069 - INFO - Results saved to ./ablation_results\ablation_results.csv
